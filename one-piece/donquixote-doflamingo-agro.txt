@@ -1,0 +1,25 @@
+#OP-1
+
+#Donquixote Doflamingo agro?
+
+Name                        Quantity            Stock
+
+#Leader
+Donquixote Doflamingo       
+
+#Characters
+(ST03-005)                  4                   4
+(ST03-004)                  4                   2
+(ST03-008)                  4                   4
+(ST03-012)                  3                   3
+(ST03-014)                  2                   2
+(OP01-064)                  4                   4
+(OP01-073)                  4                   2
+(OP01-070)                  3                   3
+(OP01-078)                  4                   1
+(OP01-074)                  4                   4
+(OP01-077)                  4                   4
+(OP01-071)                  2                   2
+(OP01-067)                  2                   2 
+(ST03-017)                  4                   4
+(OP01-088)                  2                   2

@@ -1,0 +1,39 @@
+#Defensor-Formato Racial
+
+Name                        Quantity            Stock                  
+
+#Aliados
+Aed Finn                     3                   3
+Diana y bechulen             3                   3
+Slein                        3                   1
+Pryderi                      2                   1
+Bran el Bendito              2                   1
+Cuchulein                    2                   3
+kennet                       1                   1
+Conla                        1                   1
+Fergus Mor                   1                   1
+Fergus                       ?                   3
+
+#Taliman
+Red de plata                 2                   2
+Exilio                       1                  
+Morir de Pie                 1                   2
+Traicion de magalti          1                   1
+
+#Totems
+Ulster                       3                   3
+Avalon                       1                   2
+Menhir                       2                   2
+
+#Armas
+Fragarath                    2
+Martillo Pesado              2
+
+#oro
+Defensores Celtas            3                   3
+Gaitas                       2                   1
+Carmix                       1                   2
+Ogham                        1                   1
+Letania                      1                   1
+Manzana sidhe                1
+Oro                          5                   5

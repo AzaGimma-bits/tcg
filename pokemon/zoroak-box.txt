@@ -1,0 +1,35 @@
+Pokemon - 25
+
+1 Slowbro PGO 20
+3 Cinccino SSH 147
+1 Kleavor ASR 85
+1 Mightyena ASR 9
+1 Hisuian Zoroark LOR 76
+1 Radiant Jirachi SIT 120
+1 Raichu SIT 50
+1 Braixen SIT 1
+4 Zorua EVS 102
+4 Zoroark EVS 103
+1 Flapple EVS 120
+1 Appletun EVS 121
+3 Minccino BRS 124
+1 Manaphy BRS 41
+1 Wormadam BRS 77
+
+Trainer - 25
+
+2 Professor's Research PGO 78
+3 Evolution Incense SSH 163
+2 Marnie SSH 169
+2 Ordinary Rod SSH 171
+4 Trekking Shoes ASR 156
+1 Boss's Orders LOR TG24
+4 Serena SIT 207
+3 Level Ball BST 129
+2 Path to the Peak CRE 148
+1 Choice Belt BRS 135
+1 Ultra Ball BRS 150
+Energy - 10
+2 Capture Energy RCL 171
+4 Twin Energy RCL 174
+4 Double Turbo Energy BRS 151

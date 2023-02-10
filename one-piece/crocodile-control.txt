@@ -1,0 +1,31 @@
+#OP-1
+
+#Crocodile-control
+#Es mi deck y el deck el cual me base para crearlo
+
+Name                        Quantity            Stock
+#Leader
+Crocodile     
+
+#Characters
+(ST03-005)                  4                   4
+(ST03-004)                  3                   2
+(ST03-007)                  4                   4
+(ST03-008)                  4                   4
+(ST03-009)                  3                   2
+(ST03-012)                  4                   4
+(ST03-014)                  2                   2
+(OP01-064)                  3                   3
+(OP01-073)                  3                   2
+(OP01-070)                  3                   3
+(OP01-078)                  4                   1
+(OP01-071)                  4                   2
+(OP01-065)                  3                   3
+(ST03-017)                  3                   2
+(OP01-086)                  3                   2
+
+#Variant mio
+(ST03-003)                                      2
+(OP01-075)                                      4
+(OP01-077)                                      2
+(0P01-079)                                      2
